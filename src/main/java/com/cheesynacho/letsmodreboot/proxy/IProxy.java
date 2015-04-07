@@ -1,5 +1,7 @@
 package com.cheesynacho.letsmodreboot.proxy;
 
 
-public interface IProxy {
+public interface IProxy
+{
+
 }

@@ -1,6 +1,6 @@
 package com.cheesynacho.letsmodreboot.proxy;
 
 
-public class ServerProxy
+public class ServerProxy extends CommonProxy
 {
 }
